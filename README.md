@@ -29,6 +29,6 @@ For our attendance management system, the dataset should ideally contain:
 We will initially explore publicly available datasets to understand facial image preprocessing, face detection using MTCNN, and CNN-based feature extraction.
 
 Later, we will collect and organize our own student facial image dataset for identity recognition and attendance management.
-so we have to work on group dataset from nowonwords
+
 
 
